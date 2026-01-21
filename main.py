@@ -6,5 +6,3 @@ if stated_length >= 130:
 
 else:
     print("Du får inte åka")
-
-#
